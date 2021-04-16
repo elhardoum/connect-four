@@ -178,7 +178,6 @@ namespace FinalProject
                 {
                     // listen for restart
                     char input = Console.ReadKey(true).KeyChar;
-                    Console.Write(input);
 
                     if ( '1' == input )
                     {
